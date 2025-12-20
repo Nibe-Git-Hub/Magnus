@@ -79,4 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Magnus Technologies Inc. is a company owned by my Father.
 
+/api = URLS
+/api/data = list view
+/api/team/id = detailed view
+
 https://www.linkedin.com/company/magnus-tech-ph/
